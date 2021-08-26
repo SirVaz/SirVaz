@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SirVaz
-- 👀 I’m interested in 
+- 👋 Hi, I’m Hugo Vaz
+- 👀 My skill set are
 <div style="display: inline_block">
   <img align="center" alt="hv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="hv-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
