@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
 <div>
   <a href="https://github.com/sirvaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirvaz&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirvaz&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirvaz&langs_count=7&theme=nord"/>
 </div>
