@@ -1,7 +1,7 @@
 # Hugo Vaz - GitHub
 ## 👋 Hello Welcome to my repository ! 
 
-## About Me :memo:
+## 📝 About Me 
 
 I'm a IT Systems Administrator. Determined and hardworking, always in search of new knowledge in the area of information technology.
 
