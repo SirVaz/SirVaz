@@ -9,8 +9,8 @@ I'm a IT Systems Administrator. Determined and hardworking, always in search of 
 <div style="display: inline_block"> 
   <a href="https://instagram.com/sirvaz89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:h.vaz16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hugo-vaz-9b7b8163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="http://portfolio.westeurope.cloudapp.azure.com/" target="_blank"><img height="30" width="40" src="https://img.icons8.com/color/48/000000/domain--v1.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hugo-vaz-9b7b8163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href='http://portfolio.westeurope.cloudapp.azure.com/' target="_blank"><img alt='web' src='https://img.shields.io/badge/Web_Site-100000?style=for-the-badge&logo=web&logoColor=7F7A7A&labelColor=55FF00&color=3D9D3A'/></a>
   <br>
   <br>
 </div>
@@ -30,24 +30,24 @@ I'm a IT Systems Administrator. Determined and hardworking, always in search of 
   </div>
 </details>
 
-<details closed>
+<details open>
   <summary><b>OS & Systems</b></summary>
 <br>
-  <ul>
-    <li> Windows Server </li>
-    <li> Ubuntu </li>
-    <li> Cent OS</li>
-  </ul>
-</details>
+  <div style="display: inline_block">
+    <img align="center" alt="hv-MS" height="30" width="90" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img align="center" alt="hv-ubuntu" height="30" width="90" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img align="center" alt="hv-MS" height="30" width="90" src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
+  </div>
 
 </details>
 
-<details closed>
+<details open>
   <summary><b>Frameworks</b></summary>
 <br>
-  <ul>
-    <li>ASPNET CORE MVC</li>
-  </ul>
+  <div style="display: inline_block">
+    <img align="center" alt="hv-dotnet" height="30" width="90" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" alt="hv-jquery" height="30" width="90" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+  </div>
 </details>
 
 <details closed>
